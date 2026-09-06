@@ -1,6 +1,10 @@
 # Percobaan 1A
 Percobaan ini menggunakan ESP32 dan sensor DHT11 untuk melakukan akuisisi data suhu dan kelembaban, kemudian menampilkannya pada Serial Monitor setiap 2 detik. Program juga menggunakan kondisi isnan() untuk mendeteksi kegagalan pembacaan sensor dan menampilkan peringatan apabila data yang diperoleh tidak valid.
-
+## Library
+```cpp
+#include <DHT.h>
+```
+Library DHT.h digunakan untuk membaca data suhu dan kelembaban dari sensor DHT11.
 ## Diagram Rangkaian
 
 ## Dokumentasi
@@ -147,6 +151,11 @@ Menampilkan hasil rata-rata suhu dan kelembaban setelah 5 kali pembacaan selesai
 
 # Percobaan 2A
 Percobaan ini menggunakan sensor DHT11 untuk membaca suhu dan mengendalikan relay yang disimulasikan dengan LED berdasarkan nilai threshold sebesar 30°C. Jika suhu melebihi 30°C aktuator menyala, sedangkan jika suhu berada di bawah atau sama dengan 30°C aktuator mati, dan statusnya ditampilkan pada Serial Monitor.
+## Library
+```cpp
+#include <DHT.h>
+```
+Library DHT.h digunakan untuk membaca data suhu dan kelembaban dari sensor DHT11.
 ## Diagram Rangkaian
 ## Dokumentasi
 ## Penjelasan Kode
