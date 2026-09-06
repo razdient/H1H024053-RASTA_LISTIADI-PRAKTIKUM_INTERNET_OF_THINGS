@@ -147,7 +147,8 @@ Serial.print(" °C, Rata-rata Kelembaban: ");
 Serial.print(rataKelembaban);
 Serial.println(" %");
 ```
-Menampilkan hasil rata-rata suhu dan kelembaban setelah 5 kali pembacaan selesai.
+Menampilkan hasil rata-rata suhu dan kelembaban setelah 5 kali pembacaan selesai  
+<br>
 
 # Percobaan 2A
 Percobaan ini menggunakan sensor DHT11 untuk membaca suhu dan mengendalikan relay yang disimulasikan dengan LED berdasarkan nilai threshold sebesar 30°C. Jika suhu melebihi 30°C aktuator menyala, sedangkan jika suhu berada di bawah atau sama dengan 30°C aktuator mati, dan statusnya ditampilkan pada Serial Monitor.
