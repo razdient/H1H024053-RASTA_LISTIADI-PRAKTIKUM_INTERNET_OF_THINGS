@@ -6,7 +6,7 @@ Percobaan ini menggunakan ESP32 dan sensor DHT11 untuk melakukan akuisisi data s
 ```
 Library DHT.h digunakan untuk membaca data suhu dan kelembaban dari sensor DHT11.
 ## Diagram Rangkaian
-
+![alt text](https://github.com/razdient/H1H024053-RASTA_LISTIADI-PRAKTIKUM_INTERNET_OF_THINGS/blob/main/Pertemuan%201%20-%20Sensor%20dan%20Aktuator%20/Dokumentasi/Rangkaian%201A.png?raw=true)
 ## Dokumentasi
 ## Penjelasan Kode
 
@@ -158,6 +158,7 @@ Percobaan ini menggunakan sensor DHT11 untuk membaca suhu dan mengendalikan rela
 ```
 Library DHT.h digunakan untuk membaca data suhu dan kelembaban dari sensor DHT11.
 ## Diagram Rangkaian
+![alt text](https://github.com/razdient/H1H024053-RASTA_LISTIADI-PRAKTIKUM_INTERNET_OF_THINGS/blob/main/Pertemuan%201%20-%20Sensor%20dan%20Aktuator%20/Dokumentasi/Rangkaian%202A.png?raw=true)
 ## Dokumentasi
 ## Penjelasan Kode
 ```cpp
