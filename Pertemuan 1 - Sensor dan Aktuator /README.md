@@ -8,6 +8,8 @@ Library DHT.h digunakan untuk membaca data suhu dan kelembaban dari sensor DHT11
 ## Diagram Rangkaian
 ![alt text](https://github.com/razdient/H1H024053-RASTA_LISTIADI-PRAKTIKUM_INTERNET_OF_THINGS/blob/main/Pertemuan%201%20-%20Sensor%20dan%20Aktuator%20/Dokumentasi/Rangkaian%201A.png?raw=true)
 ## Dokumentasi
+![alt tezt](https://github.com/razdient/H1H024053-RASTA_LISTIADI-PRAKTIKUM_INTERNET_OF_THINGS/blob/main/Pertemuan%201%20-%20Sensor%20dan%20Aktuator%20/Dokumentasi/Wiring%20Percobaan%201A.jpg?raw=true)
+![alt tezt](https://github.com/razdient/H1H024053-RASTA_LISTIADI-PRAKTIKUM_INTERNET_OF_THINGS/blob/main/Pertemuan%201%20-%20Sensor%20dan%20Aktuator%20/Dokumentasi/Percobaan%201A%20AC.jpg?raw=true)
 ## Penjelasan Kode
 
 ```cpp
@@ -160,6 +162,8 @@ Library DHT.h digunakan untuk membaca data suhu dan kelembaban dari sensor DHT11
 ## Diagram Rangkaian
 ![alt text](https://github.com/razdient/H1H024053-RASTA_LISTIADI-PRAKTIKUM_INTERNET_OF_THINGS/blob/main/Pertemuan%201%20-%20Sensor%20dan%20Aktuator%20/Dokumentasi/Rangkaian%202A.png?raw=true)
 ## Dokumentasi
+![alt tezt](https://github.com/razdient/H1H024053-RASTA_LISTIADI-PRAKTIKUM_INTERNET_OF_THINGS/blob/main/Pertemuan%201%20-%20Sensor%20dan%20Aktuator%20/Dokumentasi/Wiring%20Percobaan%202A.jpg?raw=true)
+![alt tezt](https://github.com/razdient/H1H024053-RASTA_LISTIADI-PRAKTIKUM_INTERNET_OF_THINGS/blob/main/Pertemuan%201%20-%20Sensor%20dan%20Aktuator%20/Dokumentasi/Percobaan%202A%20Api.jpg?raw=true)
 ## Penjelasan Kode
 ```cpp
 #include <DHT.h>
