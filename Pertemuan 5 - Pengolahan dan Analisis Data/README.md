@@ -376,6 +376,7 @@ Library ini digunakan untuk membuat dan menampilkan grafik suhu serta hasil dete
 ## Dokumentasi
 ![alt text](https://github.com/razdient/H1H024053-RASTA_LISTIADI-PRAKTIKUM_INTERNET_OF_THINGS/blob/main/Pertemuan%205%20-%20Pengolahan%20dan%20Analisis%20Data/Dokumentasi/Output%20Program%20Python%20Percobaan%205B.png?raw=true)
 ![alt text](https://github.com/razdient/H1H024053-RASTA_LISTIADI-PRAKTIKUM_INTERNET_OF_THINGS/blob/main/Pertemuan%205%20-%20Pengolahan%20dan%20Analisis%20Data/Dokumentasi/Serial%20Monitor%20Percobaan%205B.png?raw=true)
+![alt text](https://github.com/razdient/H1H024053-RASTA_LISTIADI-PRAKTIKUM_INTERNET_OF_THINGS/blob/main/Pertemuan%205%20-%20Pengolahan%20dan%20Analisis%20Data/Dokumentasi/grafik_suhu.png?raw=true)
 
 ## Penjelasan Kode
 ### Arduino IDE
